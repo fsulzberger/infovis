@@ -6,4 +6,4 @@
 
 * [Hola mundo!](https://fsulzberger.github.io/infovis/index.html)
 * [Zoo.txt](https://fsulzberger.github.io/infovis/zoo.txt)
-* [2021W31]()
+* [2021W31](https://fsulzberger.github.Io/infovis/2021W31.twb)
