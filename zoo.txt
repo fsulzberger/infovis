@@ -1,1 +1,18 @@
 protovis
+nuanced judgments
+choropleth map
+Turkers
+Q-Q Plots
+scatter plot matrix
+graduated symbol map
+dendrogram
+Dorling cartogram
+brushing-and-linking
+Icicle and Sunburst layout
+k-means clustering
+dendrogram
+Node-link diagrams
+Squarified treemaps
+Arc Diagrams
+Seriation
+Adjacency diagrams
