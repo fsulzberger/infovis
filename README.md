@@ -1,2 +1,8 @@
-# infovis
+# 2c2021
+
+## TPs
+
 2do cuatrimestre 2021
+
+* [Hola mundo!](https://fsulzberger.github.io/infovis/index.html)
+* [Zoo.txt](https://fsulzberger.github.io/infovis/zoo.txt)
