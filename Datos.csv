@@ -1,34 +1,125 @@
 Fecha,Tipo de Comida,Composicion del Plato,¿Cocinada o Preparada?,Dia de la semana,Hora,Bebida,Frutas/Verduras,Carne,Proteinas,Carbohidratos,Vegano,
-24/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Martes,08:16,Cafe,1,0,1,1,0												
-24/08,Almuerzo,Hamburguesa de garbanzos con ensalada   banana   durazno   agua,Cocinada,Martes,13:24,Agua,1,0,1,1,1												
-24/08,Merienda,Mate   tostada con queso   naranjas   agua,Cocinada,Martes,17:23,Mate,1,0,1,1,0												
-24/08,Cena,Milanesa de carne con ensalada   banana   agua,Cocinada,Martes,21:04,Agua,1,1,1,1,0												
-25/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Miércoles,08:12,Cafe,1,0,1,1,0												
-25/08,Almuerzo,Tarta de verduras   naranja   agua,Cocinada,Lunes,13:12,Agua,1,0,0,1,1												
-25/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Miércoles,17:17,Mate,1,0,1,1,1												
-25/08,Cena,Milanesa de carne con ensalada   mandarina   agua,Cocinada,Viernes,13:22,Agua,1,1,1,1,0												
-26/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Jueves,08:22,Cafe,1,0,1,1,0												
-26/08,Almuerzo,Fideos con verduras   agua,Cocinada,Jueves,13:15,Agua,1,0,0,1,1												
-26/08,Merienda,Yogur con granola y banana   agua,Cocinada,Jueves,17:14,Agua,1,0,1,1,0												
-26/08,Cena,Hamburguesa con papas fritas   agua,Cocinada,Jueves,21:09,Agua,0,1,1,1,0												
-27/08,Desayuno,Mate   tostada con mermelada   naranja,Cocinada,Viernes,08:20,Mate,1,0,0,1,1												
-27/08,Almuerzo,Milanesa de pollo con ensalada   banana   agua,Cocinada,Viernes,13:22,Agua,1,1,1,1,0												
-27/08,Merienda,Mate   tostada con mermelada,Cocinada,Viernes,17:09,Mate,0,0,0,1,1												
-27/08,Cena,Sushi   agua,Pedida,Viernes,22:35,Agua,1,1,1,1,0												
-28/08,Desayuno,Yogur con granola y banana   agua,Cocinada,Sábado,10:02,Agua,1,0,1,1,0												
-28/08,Almuerzo,Wrap con lechuga   tomate   queso   jamón   tomate   uvas   agua,Cocinada,Sábado,13:22,Agua,1,1,1,1,0												
-28/08,Merienda,Mate   tostada con queso   naranjas   agua,Cocinada,Sábado,19:03,Mate,1,0,1,1,0												
-28/08,Cena,Sushi   agua,Pedida,Sábado,21:12,Agua,0,1,1,1,0												
-29/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Domingo,10:15,Cafe,1,0,1,1,0												
-29/08,Almuerzo,Tortilla de papas con ensalada   naranja   agua,Cocinada,Domingo,13:21,Agua,1,0,1,1,0												
-29/08,Merienda,Mate   tostada con mermelada,Cocinada,Domingo,18:19,Mate,0,0,0,1,1												
-29/08,Cena,Empanadas de verdura   agua,Pedida,Domingo,20:33,Agua,1,0,0,1,1												
-30/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Lunes,08:02,Cafe,1,0,1,1,0												
-30/08,Almuerzo,Fideos con verduras   agua,Cocinada,Lunes,12:55,Agua,1,0,0,1,1												
-30/08,Merienda,Mate   medialunas,Cocinada,Lunes,17:20,Mate,0,0,0,1,1												
-30/08,Cena,Hamburguesa de espinaca y queso con batatas fritas   naranja   uvas   agua,Cocinada,Lunes,21:03,Agua,1,0,1,1,0												
-31/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Martes,08:11,Cafe,1,0,1,1,0												
-31/08,Almuerzo,Milanesa de carne con ensalada   banana   agua,Cocinada,Martes,12:49,Agua,1,1,1,1,0												
-31/08,Merienda,Café con medialunas,Pedida,Martes,17:08,Cafe,0,0,0,1,1												
-31/08,Cena,Empanadas de verdura   agua,Pedida,Martes,20:39,Agua,1,0,0,1,0												
-											
+01/08,Desayuno,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Domingo,09:23,Mate,1,0,1,1,0,												
+01/08,Almuerzo,Hamburguesa de carne con ensalada   uvas   agua,Cocinada,Domingo,13:17,Agua,1,1,1,0,0,												
+01/08,Merienda,Yogur con granola y banana   agua,Cocinada,Domingo,17:30,Agua,1,0,1,1,0,												
+01/08,Cena,Pizza de tomate y queso,Pedida,Domingo,21:51,Agua,1,0,1,1,0,												
+02/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Lunes,08:15,Cafe,1,0,1,1,0,												
+02/08,Almuerzo,Wrap con lechuga   tomate   queso   jamón   tomate   uvas   agua,Cocinada,Lunes,12:56,Agua,1,1,1,1,0,												
+02/08,Merienda,Mate   Tostada con queso y mermelada   uvas   banana   agua,Cocinada,Lunes,18:10,Mate,1,0,1,1,0,												
+02/08,Cena,Hamburguesa con Papas Fritas,Pedida,Lunes,20:36,Agua,0,1,1,1,0,												
+03/08,Desayuno,Café   tostada con palta   uvas,Cocinada,Martes,08:02,Cafe,1,0,1,1,1,												
+03/08,Almuerzo,Hamburguesa de garbanzos con ensalada   banana   durazno   agua,Cocinada,Martes,13:17,Agua,1,0,1,1,1,												
+03/08,Merienda,Mate   tostada con queso   naranjas   agua,Cocinada,Martes,17:23,Mate,1,0,1,1,0,												
+03/08,Cena,Milanesa de carne con ensalada   banana   agua,Cocinada,Martes,20:49,Agua,1,1,1,1,0,												
+04/08,Desayuno,Café   tostada con palta   huevo revuelto   uvas   agua,Cocinada,Miércoles,08:08,Cafe,1,0,1,1,0,												
+04/08,Almuerzo,Hamburguesa de calabaza con ensalda   banana   durazno   agua,Cocinada,Miércoles,12:47,Agua,1,0,0,1,1,												
+04/08,Merienda,Mate   tostada con queso   uvas   banana,Cocinada,Miércoles,17:22,Mate,1,0,1,1,0,												
+04/08,Cena,Hamburguesa de espinaca y queso con batatas fritas   naranja   uvas   agua,Cocinada,Miércoles,21:03,Agua,1,0,1,1,0,												
+05/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Jueves,08:05,Cafe,0,0,1,1,0,												
+05/08,Almuerzo,Tortilla de papas con ensalada   naranja   agua,Cocinada,Jueves,12:51,Agua,1,0,1,1,0,												
+05/08,Merienda,Yogur con granola y banana   agua,Cocinada,Jueves,18:00,Agua,1,0,1,1,0,												
+05/08,Cena,Hamburguesa de espinaca y queso con puré de batata   banana   uvas   agua,Cocinada,Jueves,20:46,Agua,1,0,1,1,0,												
+06/08,Desayuno,Café   tostada con queso y mermelada   naranja,Cocinada,Viernes,08:02,Cafe,1,0,1,1,0,												
+06/08,Almuerzo,Hamburguesa de calabaza con ensalda   banana   arandanos   agua,Cocinada,Viernes,13:43,Agua,1,0,0,1,1,												
+06/08,Merienda,Mate   ensalada de frutas,Cocinada,Viernes,16:49,Mate,1,0,0,0,1,												
+06/08,Cena,Tostadas con hummus y tomate   duraznos   agua,Cocinada,Viernes,20:56,Agua,1,0,1,1,1,												
+07/08,Desayuno,Mate   tostada con mermelada   naranja,Cocinada,Sábado,09:51,Mate,1,0,1,1,1,												
+07/08,Almuerzo,Arroz con atún   lechuga y tomate   banana   agua,Cocinada,Sábado,13:43,Agua,1,1,1,1,0,												
+07/08,Merienda,Yogur con granola y banana   agua,Cocinada,Sábado,16:49,Agua,1,0,1,1,0,												
+07/08,Cena,Sushi   agua,Pedida,Sábado,21:56,Agua,0,1,1,1,0,												
+08/08,Desayuno,Mate con medialunas,Cocinada,Domingo,09:49,Mate,0,0,0,1,1,												
+08/08,Almuerzo,Asado con ensalada   agua,Cocinada,Domingo,14:03,Agua,1,1,1,0,0,												
+08/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Domingo,16:49,Mate,1,0,0,1,1,												
+08/08,Cena,Wok de vegetales   agua,Pedida,Domingo,21:56,Agua,1,0,0,1,0,												
+09/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Lunes,08:13,Cafe,1,0,1,1,0,												
+09/08,Almuerzo,Trata de atun   banana   agua,Cocinada,Lunes,12:41,Agua,1,1,1,1,0,												
+09/08,Merienda,Yogur con granola y banana   agua,Cocinada,Lunes,17:09,Agua,1,0,1,1,0,												
+09/08,Cena,Hamburguesa de espinaca y queso con batatas fritas   naranja   uvas   agua,Cocinada,Lunes,20:54,Agua,1,0,1,1,0,												
+10/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Lunes,08:10,Cafe,1,0,1,1,0,												
+10/08,Almuerzo,Milanesa de carne con ensalada   banana   agua,Cocinada,Martes,20:38,Agua,1,1,1,1,0,												
+10/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Martes,17:13,Mate,1,0,0,1,1,												
+10/08,Cena,Fideos con verduras   agua,Cocinada,Martes,21:02,Agua,1,0,0,1,1,												
+11/08,Desayuno,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Miércoles,09:23,Mate,1,0,1,1,0,												
+11/08,Almuerzo,Wok de vegetales   agua,Cocinada,Miércoles,13:09,Agua,1,0,0,1,1,												
+11/08,Merienda,Yogur con granola y banana   agua,Cocinada,Miércoles,17:11,Agua,1,0,1,1,0,												
+11/08,Cena,Wrap con lechuga   tomate   queso   jamón   tomate   uvas   agua,Cocinada,Miércoles,12:32,Agua,1,1,1,1,0,												
+12/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Jueves,08:18,Cafe,1,0,1,1,0,												
+12/08,Almuerzo,Milanesa de carne con ensalada   banana   agua,Cocinada,Jueves,12:38,Agua,1,1,1,1,0,												
+12/08,Merienda,Yogur con granola y banana   agua,Cocinada,Jueves,17:31,Agua,1,0,1,1,0,												
+12/08,Cena,Arroz con atún   lechuga y tomate   banana   agua,Cocinada,Jueves,21:09,Agua,1,1,1,1,0,												
+13/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Viernes,08:15,Cafe,1,0,1,1,0,												
+13/08,Almuerzo,Hamburguesa de espinaca y queso con batatas fritas   naranja   uvas   agua,Cocinada,Viernes,13:23,Agua,1,0,1,1,0,												
+13/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Viernes,16:51,Mate,1,0,1,1,1,												
+13/08,Cena,Empanadas de verdura   agua,Pedida,Viernes,21:56,Agua,1,0,0,1,0,												
+14/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Sábado,09:28,Cafe,1,0,1,1,0,												
+14/08,Almuerzo,Wrap con lechuga   tomate   queso   jamón   tomate   uvas   agua,Cocinada,Sábado,13:16,Agua,1,1,1,1,0,												
+14/08,Merienda,Yogur con granola y banana   agua,Cocinada,Sábado,16:29,Agua,1,0,1,1,0,												
+14/08,Cena,Arroz con atún   lechuga y tomate   banana   agua,Cocinada,Sábado,21:21,Agua,1,1,1,1,0,												
+15/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Domingo,09:55,Cafe,1,0,1,1,0,												
+15/08,Almuerzo,Asado con ensalada   agua,Cocinada,Domingo,13:43,Agua,1,1,1,0,0,												
+15/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Domingo,17:01,Mate,1,0,1,1,1,												
+15/08,Cena,Milanesa de carne con ensalada   banana   agua,Cocinada,Domingo,21:09,Agua,1,1,1,1,0,												
+16/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Lunes,08:21,Cafe,1,0,1,1,0,												
+16/08,Almuerzo,Tarta de verduras   naranja   agua,Cocinada,Lunes,12:29,Agua,1,0,0,1,1,												
+16/08,Merienda,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Lunes,17:37,Mate,1,0,1,1,0,												
+16/08,Cena,Fideos con verduras   agua,Cocinada,Lunes,20:59,Agua,1,0,0,1,1,												
+17/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Martes,08:17,Cafe,1,0,1,1,0,												
+17/08,Almuerzo,Wok de vegetales   agua,Cocinada,Martes,13:13,Agua,1,0,0,1,1,												
+17/08,Merienda,Yogur con granola y banana   agua,Cocinada,Martes,17:23,Agua,1,0,1,1,0,												
+17/08,Cena,Milanesa de carne con ensalada   banana   agua,Cocinada,Martes,20:38,Agua,1,1,1,1,0,												
+18/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Miércoles,08:10,Cafe,1,0,1,1,0,												
+18/08,Almuerzo,Wrap con lechuga   tomate   queso   jamón   tomate   uvas   agua,Cocinada,Miércoles,12:41,Agua,1,1,1,1,0,												
+18/08,Merienda,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Miércoles,17:20,Mate,1,0,1,1,0,												
+18/08,Cena,Fideos con verduras   agua,Cocinada,Miércoles,20:55,Agua,1,0,0,1,1,												
+19/08,Desayuno,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Jueves,08:10,Mate,1,0,1,1,0,												
+19/08,Almuerzo,Hamburguesa de espinaca y queso con batatas fritas   naranja   uvas   agua,Cocinada,Jueves,13:13,Agua,1,0,1,1,0,												
+19/08,Merienda,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Jueves,17:18,Mate,1,0,1,1,0,												
+19/08,Cena,Tarta de verduras   naranja   agua,Cocinada,Jueves,20:49,Agua,1,0,0,1,1,												
+20/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Viernes,08:20,Cafe,1,0,1,1,0,												
+20/08,Almuerzo,Fideos con verduras   agua,Cocinada,Viernes,12:47,Agua,1,0,0,1,1,												
+20/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Viernes,17:19,Mate,1,0,0,1,1,												
+20/08,Cena,Pizza de brocoli   agua,Pedida,Viernes,22:03,Agua,1,0,1,1,0,												
+21/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Sábado,09:43,Cafe,1,0,1,1,0,												
+21/08,Almuerzo,Milanesa de carne con ensalada   banana   agua,Cocinada,Sábado,13:27,Agua,1,1,1,1,0,												
+21/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Sábado,17:48,Mate,1,0,1,1,1,												
+21/08,Cena,Hamburguesa con papas fritas   agua,Cocinada,Sábado,21:49,Agua,0,1,1,1,0,												
+22/08,Desayuno,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Domingo,09:23,Mate,1,0,1,1,0,												
+22/08,Almuerzo,Asado con ensalada   agua,Cocinada,Domingo,12:55,Agua,1,1,1,0,0,												
+22/08,Merienda,Mate   Tostada con queso y mermelada   duraznos   agua,Cocinada,Domingo,18:29,Mate,1,0,1,1,0,												
+22/08,Cena,Wrap con lechuga   tomate   queso   jamón   tomate   uvas   agua,Cocinada,Domingo,21:03,Agua,1,1,1,1,0,												
+23/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Lunes,08:15,Cafe,1,0,1,1,0,												
+23/08,Almuerzo,Wok de vegetales   agua,Cocinada,Lunes,13:22,Agua,1,0,0,1,1,												
+23/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Lunes,17:09,Mate,1,0,1,1,1,												
+23/08,Cena,Sushi   agua,Pedida,Lunes,21:18,Agua,1,1,1,1,0,												
+24/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Martes,08:16,Cafe,1,0,1,1,0,												
+24/08,Almuerzo,Hamburguesa de garbanzos con ensalada   banana   durazno   agua,Cocinada,Martes,13:24,Agua,1,0,1,1,1,												
+24/08,Merienda,Mate   tostada con queso   naranjas   agua,Cocinada,Martes,17:23,Mate,1,0,1,1,0,												
+24/08,Cena,Milanesa de carne con ensalada   banana   agua,Cocinada,Martes,21:04,Agua,1,1,1,1,0,												
+25/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Miércoles,08:12,Cafe,1,0,1,1,0,												
+25/08,Almuerzo,Tarta de verduras   naranja   agua,Cocinada,Lunes,13:12,Agua,1,0,0,1,1,												
+25/08,Merienda,Mate   tostada con mermelada   naranja,Cocinada,Miércoles,17:17,Mate,1,0,1,1,1,												
+25/08,Cena,Milanesa de carne con ensalada   mandarina   agua,Cocinada,Viernes,13:22,Agua,1,1,1,1,0,												
+26/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Jueves,08:22,Cafe,1,0,1,1,0,												
+26/08,Almuerzo,Fideos con verduras   agua,Cocinada,Jueves,13:15,Agua,1,0,0,1,1,												
+26/08,Merienda,Yogur con granola y banana   agua,Cocinada,Jueves,17:14,Agua,1,0,1,1,0,												
+26/08,Cena,Hamburguesa con papas fritas   agua,Cocinada,Jueves,21:09,Agua,0,1,1,1,0,												
+27/08,Desayuno,Mate   tostada con mermelada   naranja,Cocinada,Viernes,08:20,Mate,1,0,0,1,1,												
+27/08,Almuerzo,Milanesa de pollo con ensalada   banana   agua,Cocinada,Viernes,13:22,Agua,1,1,1,1,0,												
+27/08,Merienda,Mate   tostada con mermelada,Cocinada,Viernes,17:09,Mate,0,0,0,1,1,												
+27/08,Cena,Sushi   agua,Pedida,Viernes,22:35,Agua,1,1,1,1,0,												
+28/08,Desayuno,Yogur con granola y banana   agua,Cocinada,Sábado,10:02,Agua,1,0,1,1,0,												
+28/08,Almuerzo,Wrap con lechuga   tomate   queso   jamón   tomate   uvas   agua,Cocinada,Sábado,13:22,Agua,1,1,1,1,0,												
+28/08,Merienda,Mate   tostada con queso   naranjas   agua,Cocinada,Sábado,19:03,Mate,1,0,1,1,0,												
+28/08,Cena,Sushi   agua,Pedida,Sábado,21:12,Agua,0,1,1,1,0,												
+29/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Domingo,10:15,Cafe,1,0,1,1,0,												
+29/08,Almuerzo,Tortilla de papas con ensalada   naranja   agua,Cocinada,Domingo,13:21,Agua,1,0,1,1,0,												
+29/08,Merienda,Mate   tostada con mermelada,Cocinada,Domingo,18:19,Mate,0,0,0,1,1,												
+29/08,Cena,Empanadas de verdura   agua,Pedida,Domingo,20:33,Agua,1,0,0,1,1,												
+30/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Lunes,08:02,Cafe,1,0,1,1,0,												
+30/08,Almuerzo,Fideos con verduras   agua,Cocinada,Lunes,12:55,Agua,1,0,0,1,1,												
+30/08,Merienda,Mate   medialunas,Cocinada,Lunes,17:20,Mate,0,0,0,1,1,												
+30/08,Cena,Hamburguesa de espinaca y queso con batatas fritas   naranja   uvas   agua,Cocinada,Lunes,21:03,Agua,1,0,1,1,0,												
+31/08,Desayuno,Café   tostada con palta   huevo revuelto   durazno   agua,Cocinada,Martes,08:11,Cafe,1,0,1,1,0,												
+31/08,Almuerzo,Milanesa de carne con ensalada   banana   agua,Cocinada,Martes,12:49,Agua,1,1,1,1,0,												
+31/08,Merienda,Café con medialunas,Pedida,Martes,17:08,Cafe,0,0,0,1,1,												
+31/08,Cena,Empanadas de verdura   agua,Pedida,Martes,20:39,Agua,1,0,0,1,0,												
