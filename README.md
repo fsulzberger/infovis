@@ -16,7 +16,10 @@ El trabajo consiste en describir las comidas que como durante un mes analizando 
 * Finalización de la recolección de datos: Martes 31 de Agosto
 * La recolección de datos se encuentra en  [TablaDatos](TablaDatos.csv)
 
+##
 
+
+**VISUALIZACIÓN DE LA INFORMACIÓN**
 
 
 
