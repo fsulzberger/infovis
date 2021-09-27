@@ -4,9 +4,10 @@
 
 ##
 
-**Tema del Trabajo**
+**Objetivo del Trabajo**
 
-El trabajo consiste en describir las comidas que como durante un mes analizando la composición de cada plato.
+El objetivo de este trabajo práctico es poder visualizar la información estudiada a partir de  datos recolectados a mano, cada día de la semana, de qué como en un día durante un mes. El fin es poder analizar las características y la composición de los platos que consumo, a qué hora consumo alimentos, cuántas de mis comidas son cocinadas y cuántas pedidas, qué bebidas consumo más, qué tipo de alimentos predominan en mi dieta, si las comidas son veganas o no, etc.
+
 
 ##
 
