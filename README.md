@@ -40,6 +40,6 @@ A través del estudio de estos datos se obtendrán diferentes visualizaciones co
 
 **VISUALIZACIÓN DE LA INFORMACIÓN**
 
-La visualización de la información se encuentra en el siguiente enlace: [Visualización De La Información: ¿Qué como durante un mes?]
+La visualización de la información se encuentra en el siguiente enlace: [Visualización De La Información: ¿Qué como durante un mes?](https://fsulzberger.github.io/infovis/pdata/pdata)
 
 
